@@ -1,4 +1,4 @@
-# NettyFinder :rocket
+# NettyFinder :rocket:
 
 This is a python verison of the original netty-finder that was written in JavaScript
 
