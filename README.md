@@ -1,6 +1,6 @@
 # NettyFinder :rocket:
 
-This is a python verison of the original netty-finder that was written in JavaScript
+This is a python verison of the original [netty-finder](https://github.com/BolajiAyodeji/netty-finder) that was written in JavaScript
 
 # Installation
 
@@ -34,10 +34,10 @@ print(network_name)
 
 # About Author
 
-This was originally built by Bolaji Ayodeji so all rights goes to him, I only interpreted the javascript code to python
+This was originally built by [Bolaji Ayodeji](https://github.com/BolajiAyodeji) so all rights goes to him, I only interpreted the javascript code to python
 
 # Contribution
  
-For now, I dont accept contributions except its from the javascript netty_finder, so I suggest you contribute there. Any changes from there will be added to the python version
+For now, I dont accept contributions except its from the javascript [netty_finder](https://github.com/BolajiAyodeji/netty-finder), so I suggest you contribute there. Any changes from there will be added to the python version
 
 
