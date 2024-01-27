@@ -32,3 +32,15 @@ class NetworkDetectorAirtel(NetworkDetector, TestCase):
 class NetworkDetectorMTN(NetworkDetector, TestCase):
     phone = "09069577886"
     network_name = "MTN"
+
+class NetworkDetectorNewMTN(NetworkDetector, TestCase):
+    phone = "09139577886"
+    network_name = "MTN"
+
+class NetworkDetectorNewAirtel(NetworkDetector, TestCase):
+    phone = "09119577886"
+    network_name = "Airtel"
+
+class NetworkDetectorNewGLO(NetworkDetector, TestCase):
+    phone = "08115737518"
+    network_name = "GLO"
